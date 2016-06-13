@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<artifact name="EventStream_AndroidAlert" version="1.0.0" type="event/stream" serverRole="DataAnalyticsServer">
+    <file>org.wso2.android.alert_1.0.0.json</file>
+</artifact>
