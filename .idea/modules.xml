@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/analytics-emm.iml" filepath="$PROJECT_DIR$/.idea/analytics-emm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/analytics-emm-components.iml" filepath="$PROJECT_DIR$/components/analytics-emm-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/analytics-emm-features.iml" filepath="$PROJECT_DIR$/features/analytics-emm-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/org.wso2.carbon.analytics.emm.feature/org.wso2.carbon.analytics.emm.feature.iml" filepath="$PROJECT_DIR$/features/org.wso2.carbon.analytics.emm.feature/org.wso2.carbon.analytics.emm.feature.iml" />
+    </modules>
+  </component>
+</project>
