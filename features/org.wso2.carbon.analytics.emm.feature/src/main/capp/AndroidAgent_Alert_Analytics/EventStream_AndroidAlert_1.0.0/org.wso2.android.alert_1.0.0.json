@@ -1,0 +1,22 @@
+{
+  "name": "android_agent",
+  "version": "1.0.0",
+  "nickName": "Android alert stream",
+  "description": "A Android alert stream",
+  "metaData": [],
+  "correlationData": [],
+  "payloadData": [
+    {
+      "name": "deviceIdentifier",
+      "type": "STRING"
+    },
+    {
+      "name": "payload",
+      "type": "STRING"
+    },
+    {
+      "name": "type",
+      "type": "STRING"
+    }
+  ]
+}
