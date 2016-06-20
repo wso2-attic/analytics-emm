@@ -24,6 +24,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>org.wso2.carbon.analytics.emm.feature</artifactId>
+    <name>WSO2 Analytics EMM - Analytics Feature</name>
     <packaging>pom</packaging>
 
     <build>

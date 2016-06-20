@@ -1,7 +1,7 @@
 <artifacts>
     <artifact name="AndroidAlertCApp" version="1.0.0" type="carbon/application">
-        <dependency artifact="EventStream_AndroidAlert" version="1.0.0" include="true" serverRole="DataAnalyticsServer"/>
-        <dependency artifact="EventStore_AndroidAlert" version="1.0.0" include="true" serverRole="DataAnalyticsServer"/>
-        <dependency artifact="EventReceiver_AndroidAlert" version="1.0.0" include="true" serverRole="DataAnalyticsServer"/>
+        <dependency artifact="EventStream_AndroidAlert" version="1.0.0" include="true" serverRole="EMMPlatform"/>
+        <dependency artifact="EventStore_AndroidAlert" version="1.0.0" include="true" serverRole="EMMPlatform"/>
+        <dependency artifact="EventReceiver_AndroidAlert" version="1.0.0" include="true" serverRole="EMMPlatform"/>
     </artifact>
 </artifacts>
