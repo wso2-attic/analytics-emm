@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<artifact name="EventStore_AndroidAlert" version="1.0.0" type="analytics/eventstore" serverRole="DataAnalyticsServer">
+<artifact name="EventStore_AndroidAlert" version="1.0.0" type="analytics/eventstore" serverRole="EMMPlatform">
     <file>ANDROID_AGENT.xml</file>
 </artifact>

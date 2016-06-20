@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<artifact name="EventReceiver_AndroidAlert" version="1.0.0" type="event/receiver" serverRole="DataAnalyticsServer">
+<artifact name="EventReceiver_AndroidAlert" version="1.0.0" type="event/receiver" serverRole="EMMPlatform">
     <file>EventReceiver_AndroidAlert.xml</file>
 </artifact>
