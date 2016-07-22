@@ -21,13 +21,13 @@
     <parent>
         <groupId>org.wso2.carbon.analytics.emm</groupId>
         <artifactId>wso2analytics-emm-parent</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>analytics-emm-features</artifactId>
     <name>WSO2 Analytics EMM - Features</name>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
         <module>org.wso2.carbon.analytics.emm.feature</module>
