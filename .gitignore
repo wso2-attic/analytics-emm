@@ -12,4 +12,6 @@
 hs_err_pid*
 
 target
+*.iml
+.idea
 features/org.wso2.carbon.analytics.emm.feature/src/main/resources/
